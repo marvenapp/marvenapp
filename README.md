@@ -2,7 +2,7 @@
 - 👀 I’m interested in User Experience, Product Design, Web Design & Art Direction
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on user experience, app design, and web design
-- 📫 How to reach me info@bicoastal.agency
+- 📫 How to reach me info@bicoastal.agency or https://bicoastal.agency
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I don't love fun fact questions
 
